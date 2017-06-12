@@ -1,3 +1,6 @@
 mkdir python
 bitsadmin /transfer "GetBatch" "https://git.io/vDDjn" "%cd%\python\kivy.bat"
 cd python
+
+
+learn kivi infor : https://www.youtube.com/watch?v=ZmteLworB4E
